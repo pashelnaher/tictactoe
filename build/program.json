@@ -1,0 +1,6 @@
+{
+    "program": "tictactoe.aleo",
+    "version": "1.0.0",
+    "description": "my first game in Leo",
+    "license": "MIT"
+}
